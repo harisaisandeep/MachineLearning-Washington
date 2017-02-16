@@ -1,0 +1,18 @@
+
+*.mp4
+
+*.pdf
+
+*.exe
+
+*.lnk
+
+#These are tutorial files
+Course1/Tutorials/*
+Course2/Tutorials/*
+Course3/Tutorials/*
+
+#These are video lecutre files
+Course1/Content/*
+Course2/Content/*
+Course3/Content/*
